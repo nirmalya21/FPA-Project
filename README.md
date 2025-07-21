@@ -27,10 +27,4 @@ A dynamic and interactive Streamlit dashboard for Financial Planning & Analysis 
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/fpa-pvm-dashboard.git
-cd fpa-pvm-dashboard
