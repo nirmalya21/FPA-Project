@@ -2,7 +2,7 @@
 
 #  FP&A + Business Controlling + PVM Dashboard
 
-[**Launch the App**(https://fpa-project-nirmalya.streamlit.app/)]
+[**Launch the App**](https://fpa-project-nirmalya.streamlit.app/)
 
 A dynamic and interactive Streamlit dashboard for Financial Planning & Analysis (FP&A), Business Controlling, and Price-Volume-Mix (PVM) analysis. It also includes forecasting using linear regression—ideal for finance analysts, controllers, and project managers.
 
